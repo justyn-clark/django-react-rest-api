@@ -31,9 +31,3 @@ Django REST framework / React quickstart
 * Authentication
 * React routing
 * Production
-
-## Meta
-
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
-
-
